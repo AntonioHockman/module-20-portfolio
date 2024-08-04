@@ -1,4 +1,6 @@
 .images{
-    width: 200px;
-    height:200px
+     width: 200px;
+    height:200px ;
+    object-fit: cover;
 }
+/* do cards for the 'projects' */

@@ -1,17 +1,50 @@
-
 [
-    {
-      "name": "project 1 test",
-      "description": "HTML/JS/CSS",
-      "link": "https://heroku.com",
-      "repo": "https://github.com/femke77",
-      "image": "challengeFour"
-    },
-    {
-      "name": "project 2 test",
-      "description": "NRG Stack",
-      "link": "https://heroku.com/",
-      "repo": "https://github.com/femke77",
-      "image": "challengeEleven"
-    }
-  ]
+  {
+    "name": "project 1 test",
+    "description": "HTML/JS/CSS",
+    "stack":"html,jss,css",
+    "link": "https://antoniohockman.github.io/Great-Sports-Movies-of-all-time-/",
+    "repo": "https://github.com/femke77",
+    "image": "challengeFour"
+  },
+  {
+    "name": "project 2 test",
+    "description": "NRG Stack",
+    "stack":"html,jss,css",
+    "link": "https://heroku.com/",
+    "repo": "https://github.com/femke77",
+    "image": "challengeEleven"
+  },
+  {
+    "name": "project 2 test",
+    "description": "NRG Stack",
+    "stack":"html,jss,css",
+    "link": "https://heroku.com/",
+    "repo": "https://github.com/femke77",
+    "image": "challengeTwelve"
+  },
+  {
+    "name": "project 2 test",
+    "description": "NRG Stack",
+    "stack":"html,jss,css",
+    "link": "https://heroku.com/",
+    "repo": "https://github.com/femke77",
+    "image": "challengeSeventeen"
+  },
+  {
+    "name": "project 2 test",
+    "description": "NRG Stack",
+    "stack":"html,jss,css",
+    "link": "https://heroku.com/",
+    "repo": "https://github.com/femke77",
+    "image": "projectOne"
+  },
+  {
+    "name": "project 2 test",
+    "description": "NRG Stack",
+    "stack":"html,jss,css",
+    "link": "https://heroku.com/",
+    "repo": "https://github.com/femke77",
+    "image": "projectTwo"
+  }
+]
