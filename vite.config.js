@@ -8,4 +8,5 @@ export default defineConfig({
     port: 3000,
     open: true,
   },
+  assetsInclude: ['**/*.JPG'] // Add this line to include JPG files as assets
 });

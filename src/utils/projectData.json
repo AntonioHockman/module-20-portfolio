@@ -17,7 +17,7 @@
   },
   {
     "name": "Employee Tracker",
-    "description": "For this challenge I built a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and PostgreSQL.This is not a live site.",
+    "description": "Command-line application that manages a company's employee database, using Node.js, Inquirer, and PostgreSQL.This is not a live site.",
     "stack":"SQL,Node.js,PostgreSQL",
     "link": "",
     "repo": "https://github.com/AntonioHockman/SQL-DOCE-CH",

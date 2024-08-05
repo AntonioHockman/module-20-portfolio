@@ -1,3 +1,8 @@
 body {
   background-color: aqua;
 };
+
+.headShot{
+  width: 100;
+  height:100px;
+}

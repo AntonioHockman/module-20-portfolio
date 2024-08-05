@@ -9,19 +9,19 @@ export default function Portfolio() {
         The following list are some of my past coding projects with images, links to the live sites and gitHub repositories. 
       </p>
 
-      <div className='d-flex flex-wrap justify-content-center'>
+      {/* <div className='d-flex flex-wrap justify-content-center'>
         {projectData.map(project => (
         <Project project={project} key = {project.name}/>
       ))}
-      </div>
-
-      {/* <Project project={projectData[0]}/>
+      </div> */}
+      <div className='d-flex flex-wrap justify-content-center'>   
+      <Project project={projectData[0]}/>
       <Project project={projectData[1]}/>
       <Project project={projectData[2]}/>
       <Project project={projectData[3]}/>
       <Project project={projectData[4]}/>
-      <Project project={projectData[5]}/> */}
-
+      <Project project={projectData[5]}/>
+      </div>
 
     </div>
   );
