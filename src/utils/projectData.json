@@ -1,50 +1,50 @@
 [
   {
-    "name": "project 1 test",
-    "description": "HTML/JS/CSS",
+    "name": "Blog Post",
+    "description": "A blog post with light/dark mode and two pages.",
     "stack":"html,jss,css",
-    "link": "https://antoniohockman.github.io/Great-Sports-Movies-of-all-time-/",
-    "repo": "https://github.com/femke77",
+    "link": "https://antoniohockman.github.io/Tony-s-first-blog-post/",
+    "repo": "https://github.com/AntonioHockman/Tony-s-first-blog-post/tree/main/Assets",
     "image": "challengeFour"
   },
   {
-    "name": "project 2 test",
-    "description": "NRG Stack",
-    "stack":"html,jss,css",
-    "link": "https://heroku.com/",
-    "repo": "https://github.com/femke77",
+    "name": "Note Taker",
+    "description": "An application used write and save notes.",
+    "stack":"html,express.js,render",
+    "link": "https://module-once-11.onrender.com",
+    "repo": "https://github.com/AntonioHockman/module-ONCE-11",
     "image": "challengeEleven"
   },
   {
-    "name": "project 2 test",
-    "description": "NRG Stack",
-    "stack":"html,jss,css",
-    "link": "https://heroku.com/",
-    "repo": "https://github.com/femke77",
+    "name": "Employee Tracker",
+    "description": "For this challenge I built a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and PostgreSQL.This is not a live site.",
+    "stack":"SQL,Node.js,PostgreSQL",
+    "link": "",
+    "repo": "https://github.com/AntonioHockman/SQL-DOCE-CH",
     "image": "challengeTwelve"
   },
   {
-    "name": "project 2 test",
-    "description": "NRG Stack",
-    "stack":"html,jss,css",
-    "link": "https://heroku.com/",
-    "repo": "https://github.com/femke77",
+    "name": "Regex Complex",
+    "description": "Here I learned and explained how regex works in a git gist file, there is no live site.",
+    "stack":"gitGist,Regex,ReadMe",
+    "link": "",
+    "repo": "https://gist.github.com/AntonioHockman/831ac88bdc98a2ca9c3af06e73603802#character-escapes",
     "image": "challengeSeventeen"
   },
   {
-    "name": "project 2 test",
-    "description": "NRG Stack",
-    "stack":"html,jss,css",
-    "link": "https://heroku.com/",
-    "repo": "https://github.com/femke77",
+    "name": "Project One",
+    "description": "A group project using interactive front-end and calling Apis",
+    "stack":"Api,CSS,HTML",
+    "link": "https://antoniohockman.github.io/Great-Sports-Movies-of-all-time-/",
+    "repo": "https://github.com/AntonioHockman/Great-Sports-Movies-of-all-time-",
     "image": "projectOne"
   },
   {
     "name": "project 2 test",
     "description": "NRG Stack",
     "stack":"html,jss,css",
-    "link": "https://heroku.com/",
-    "repo": "https://github.com/femke77",
+    "link": "https://dashboard.render.com/web/srv-cpoeoreehbks73ei6a60",
+    "repo": "https://github.com/AntonioHockman/Rob-A-Job",
     "image": "projectTwo"
   }
 ]
