@@ -1,19 +1,31 @@
 export default function Resume() {
   return (
     <div>
-      <h1>Home Page</h1>
+      <h1>Resume</h1>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-        velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-        ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-        non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-        ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-        rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-        tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-        porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-        vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-        fames ac ante ipsum primis in faucibus.
+      Resume PDF <a href ="https://drive.google.com/file/d/1rSh8lGkDXJy51n2AtgD9jDNDRoiJjYPt/view?usp=sharing">link here</a>
       </p>
+      <h4>Front-end Proficiencies</h4>
+      <ul>
+        <li>JSS</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Jquery</li>
+        <li>responsive design</li>
+        <li>React</li>
+        <li>Bootstrap</li>
+      </ul>
+      <h4>Back-end Proficiencies</h4>
+      <ul>
+        <li>APIs</li>
+        <li>Node</li>
+        <li>Express</li>
+        <li>MySQL,Sequelize</li>
+        <li>MongoDB,Mongoose</li>
+        <li>REST</li>
+        <li>GrapQL</li>
+      </ul>
+
     </div>
   );
 }

@@ -4,3 +4,8 @@
     object-fit: cover;
 }
 /* do cards for the 'projects' */
+
+.Icons{
+    margin:50px;
+    justify-content: center;
+}
